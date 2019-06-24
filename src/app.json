@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/main",                                                                           
+    "pages/counter/main",                                                          
+    "pages/webview/main"                                                                  
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "宝宝思维小课",
+    "navigationBarTextStyle": "black"
+  }
+}
